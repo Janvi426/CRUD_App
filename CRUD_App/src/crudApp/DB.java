@@ -10,7 +10,7 @@ public class DB {
 		try {
 			String url = "jdbc:mysql://localhost:3306/db";
 			String userName = "root";
-			String password = "janvi426";
+			String password = "*****";
 			
 			conn = DriverManager.getConnection(url, userName, password);
 		} catch (Exception e) {
