@@ -41,7 +41,7 @@ The project consists of five different Java classes:
    - Create a database named `db` in MySQL.
    - Create a table named `customer` in the `db` database.
 
-  ```
+  ```sql
   CREATE DATABASE db;
   USE db;
   ```
