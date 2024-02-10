@@ -59,7 +59,9 @@ The project consists of five different Java classes:
 2. **Change in DB file:**
    - Make sure to replace ***** with your database password.
 
+     <br>
+
 ## Learning Mode ON 💛
 
-**Enjoy using your CRUD application in Java! If you have any questions or encounter issues, feel free to open an [issue](https://github.com/yourusername/CRUD_App/issues).**
+**Enjoy using your CRUD application in Java! If you have any questions or encounter issues, feel free to open an [issue](https://github.com/Janvi426/CRUD_App/issues).**
 
